@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Danial's Homepage"
 title_separator          : "-"
 name                     : &name "Danial Namazifard"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar_main.png"
   name             : "Danial Namazifard"
   pronouns         : # example: "she/her"  
   bio              : "AI MSc Student"
