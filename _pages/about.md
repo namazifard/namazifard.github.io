@@ -1,19 +1,76 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-A data-driven personal website
+About me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi! I am a computer science Ph.D. student at <b>[UCLA](https://www.ucla.edu/)</b> advised by [Prof. Nanyun (Violet) Peng](https://vnpeng.net/). Previously, I recieved my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"} and [Prof. Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}.
+<!-- Hi! I am a master's student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning. -->
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My primary research interest lies in the area of <b>Natural Language Processing</b> (NLP), where I have done research on quantifying token attribution in Transformers [(ACL2023, ](https://aclanthology.org/2023.acl-long.149/)[NAACL2022)](https://aclanthology.org/2022.naacl-main.19), Metaphors in pre-trained language models [(ACL2022)](https://aclanthology.org/2022.acl-long.144/), layer-wise probing BERToids [(BlackboxNLP@EMNLP2021)](https://aclanthology.org/2021.blackboxnlp-1.29), and finding important examples by gradient-based dataset pruning [(ENLSP@NeurIPS2022)](https://arxiv.org/abs/2211.05610).
+<!-- My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability gained in pre-training as well as possible biases towards specific persons or groups. -->
+
+Feel free to [email](mailto:mohsenfayyaz@cs.ucla.edu) me or check my [Curriculum Vitae](/files/MohsenFayyaz_CV.pdf){:target="_blank"}.
+
+News
+======
+------
+<font size="3">
+<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
+<ul>
+	<li>
+		<b>Jul 2023</b>: Our paper "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition" has been accepted to <b>ACL 2023</b>! 
+		<a href="https://aclanthology.org/2023.acl-long.149/" target="_blank">[paper]</a>
+	</li>
+	<li>
+		<b>Nov 2022</b>: Our paper "BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning" has been accepted to <b>ENLSP@NeurIPS2022</b>! 
+		<a href="https://arxiv.org/abs/2211.05610" target="_blank">[paper]</a>
+	</li>
+	<li>
+		<b>Apr 2022</b>: Our paper "GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers" has been accepted to <b>NAACL 2022</b> main conference! 
+		<a href="https://aclanthology.org/2022.naacl-main.19.pdf" target="_blank">[paper]</a>
+		<a href="https://youtu.be/jgd9kUJlug4" target="_blank">[video]</a>
+	</li>
+	<li>
+		<b>Mar 2022</b>: Our paper "Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages" has been accepted to <b>ACL 2022</b> main conference! 
+		<a href="https://aclanthology.org/2022.acl-long.144/" target="_blank">[paper]</a>
+		<a href="https://www.youtube.com/watch?v=UKWFZSiP7OY" target="_blank">[video]</a>
+	</li>
+	<li>
+		<b>Sep 2021</b>: Our paper "Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations" has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)! 
+		<a href="https://aclanthology.org/2021.blackboxnlp-1.29/">[paper]</a>
+		<!-- <a href="/posts/layer-wise-probing-on-bertoids">[blog]</a> -->
+	</li>
+	<li>
+		<b>Aug 2021</b>: Accepted to enroll in graduate school as a top student without passing the entrance examinations, University of Tehran
+	</li>
+	<li>
+		<b>Dec 2020</b>: Received Faculty of Engineering Award for ranking 1st among all Computer Engineering students, University of Tehran
+	</li>
+	<li>
+		<b>Dec 2020</b>: <a href="https://nlpdataset.ir/" target="_blank">nlpdataset.ir</a> is online for listing NLP datasets and tools for  research and development in Farsi NLP.
+	</li>
+	<li>
+		<b>Dec 2019</b>: Received Faculty of Engineering Award for ranking 3rd among all Computer Engineering students, University of Tehran
+	</li>
+</ul>
+</div>
+</font>
 
 Getting started
 ======
