@@ -38,8 +38,9 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
-		<b>/Feb 2024</b>: Our paper "Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT" has been accepted for presentation at <b>LREC-CoLing 2024</b>!.
-		<a href="[https://lrec-coling-2024.org/]" target="_blank">[paper]</a>
+		<b>/Feb 2024</b>: Our paper "Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT" has been accepted for presentation at <b>LREC-CoLing 2024</b>!
+		<a href="[https://arxiv.org/pdf/2404.02403]" target="_blank">[paper]</a>
+		<a href="[https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian]" target="_blank">[code]</a>		
 	</li>
 </ul>
 </div>
