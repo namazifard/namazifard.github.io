@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am an AI MS.c. student at the <b>[University of Tehran](https://www.ut.ac.ir/en)</b> under the advisorship of [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/). My academic journey has been centered around exploring the vast landscape of NLP, with a particular focus on leveraging Large Language Models (LLMs) to address various challenges and opportunities in this field.
+Hi! I am an AI MS.c. student at the <b>[University of Tehran](https://www.ut.ac.ir/en)</b> under the advisorship of [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/). My academic journey has been centered around exploring the vast landscape of NLP, with a particular focus on leveraging <b>Large Language Models</b> (LLMs) to address various challenges and opportunities in this field.
 
 <!-- Previously, I recieved my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh]
 <!-- (https://yyaghoobzadeh.github.io/){:target="_blank"} on natural language processing (NLP).
@@ -18,10 +18,29 @@ Hi! I am an AI MS.c. student at the <b>[University of Tehran](https://www.ut.ac.
 <!-- and [Prof. Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}.
 <!-- Hi! I am a master's student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning. -->
 
-My primary research interest lies in the area of <b>Natural Language Processing</b> (NLP), where I have done research on quantifying token attribution in Transformers [(ACL2023, ](https://aclanthology.org/2023.acl-long.149/)[NAACL2022)](https://aclanthology.org/2022.naacl-main.19), Metaphors in pre-trained language models [(ACL2022)](https://aclanthology.org/2022.acl-long.144/), layer-wise probing BERToids [(BlackboxNLP@EMNLP2021)](https://aclanthology.org/2021.blackboxnlp-1.29), and finding important examples by gradient-based dataset pruning [(ENLSP@NeurIPS2022)](https://arxiv.org/abs/2211.05610).
-<!-- My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability gained in pre-training as well as possible biases towards specific persons or groups. -->
+<! --My primary research interest lies in the area of <b>Natural Language Processing</b> (NLP), where I have done research on quantifying
+<! --token attribution in Transformers [(ACL2023, ](https://aclanthology.org/2023.acl-long.149/)[NAACL2022)]
+<! --(https://aclanthology.org/2022.naacl-main.19), Metaphors in pre-trained language models [(ACL2022)](https://aclanthology.org/2022.acl-<! --long.144/), layer-wise probing BERToids [(BlackboxNLP@EMNLP2021)](https://aclanthology.org/2021.blackboxnlp-1.29), and finding
+<! --important examples by gradient-based dataset pruning [(ENLSP@NeurIPS2022)](https://arxiv.org/abs/2211.05610).
+<!-- My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability
+<! --gained in pre-training as well as possible biases towards specific persons or groups. -->
 
-Feel free to [email](mailto:mohsenfayyaz@cs.ucla.edu) me or check my [Curriculum Vitae](/files/MohsenFayyaz_CV.pdf){:target="_blank"}.
+<!-- Feel free to [email](mailto:mohsenfayyaz@cs.ucla.edu) me or check my [Curriculum Vitae](/files/MohsenFayyaz_CV.pdf){:target="_blank"}.
+
+Research Interests
+======
+My research interests span across several areas within NLP, including:
+
+Multilingual Foundational Models: I’m intrigued by the potential of large language models to bridge language barriers and enhance communication across diverse linguistic contexts.
+
+Multi-Agent Systems: Exploring the dynamics of interaction and collaboration among autonomous agents is a fascinating avenue for understanding complex systems and achieving collective intelligence.
+
+Knowledge-Enhanced NLP: Integrating external knowledge sources into natural language understanding systems to improve performance and promote deeper comprehension.
+
+Cross-Lingual Transfer Learning: Investigating techniques to transfer knowledge and insights gained from one language to another, particularly in low-resource language settings.
+
+Responsible AI: Advocating for ethical considerations and fairness in the development and deployment of AI technologies, ensuring they serve societal interests and uphold fundamental values.
+
 
 News
 ======
