@@ -25,16 +25,11 @@ Research Interests
 
 My research interests span across several areas within NLP, including:
 
-Multilingual Foundational Models: I’m intrigued by the potential of large language models to bridge language barriers and enhance communication across diverse linguistic contexts.
-
-Multi-Agent Systems: Exploring the dynamics of interaction and collaboration among autonomous agents is a fascinating avenue for understanding complex systems and achieving collective intelligence.
-
-Knowledge-Enhanced NLP: Integrating external knowledge sources into natural language understanding systems to improve performance and promote deeper comprehension.
-
-Cross-Lingual Transfer Learning: Investigating techniques to transfer knowledge and insights gained from one language to another, particularly in low-resource language settings.
-
-Responsible AI: Advocating for ethical considerations and fairness in the development and deployment of AI technologies, ensuring they serve societal interests and uphold fundamental values.
-
+- Multilingual Foundational Models
+- Multi-Agent Systems
+- Knowledge-Enhanced NLP
+- Cross-Lingual Transfer Learning
+- Responsible AI
 
 News
 ======
@@ -43,39 +38,8 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
-		<b>Jul 2023</b>: Our paper "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition" has been accepted to <b>ACL 2023</b>! 
-		<a href="https://aclanthology.org/2023.acl-long.149/" target="_blank">[paper]</a>
-	</li>
-	<li>
-		<b>Nov 2022</b>: Our paper "BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning" has been accepted to <b>ENLSP@NeurIPS2022</b>! 
-		<a href="https://arxiv.org/abs/2211.05610" target="_blank">[paper]</a>
-	</li>
-	<li>
-		<b>Apr 2022</b>: Our paper "GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers" has been accepted to <b>NAACL 2022</b> main conference! 
-		<a href="https://aclanthology.org/2022.naacl-main.19.pdf" target="_blank">[paper]</a>
-		<a href="https://youtu.be/jgd9kUJlug4" target="_blank">[video]</a>
-	</li>
-	<li>
-		<b>Mar 2022</b>: Our paper "Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages" has been accepted to <b>ACL 2022</b> main conference! 
-		<a href="https://aclanthology.org/2022.acl-long.144/" target="_blank">[paper]</a>
-		<a href="https://www.youtube.com/watch?v=UKWFZSiP7OY" target="_blank">[video]</a>
-	</li>
-	<li>
-		<b>Sep 2021</b>: Our paper "Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations" has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)! 
-		<a href="https://aclanthology.org/2021.blackboxnlp-1.29/">[paper]</a>
-		<!-- <a href="/posts/layer-wise-probing-on-bertoids">[blog]</a> -->
-	</li>
-	<li>
-		<b>Aug 2021</b>: Accepted to enroll in graduate school as a top student without passing the entrance examinations, University of Tehran
-	</li>
-	<li>
-		<b>Dec 2020</b>: Received Faculty of Engineering Award for ranking 1st among all Computer Engineering students, University of Tehran
-	</li>
-	<li>
-		<b>Dec 2020</b>: <a href="https://nlpdataset.ir/" target="_blank">nlpdataset.ir</a> is online for listing NLP datasets and tools for  research and development in Farsi NLP.
-	</li>
-	<li>
-		<b>Dec 2019</b>: Received Faculty of Engineering Award for ranking 3rd among all Computer Engineering students, University of Tehran
+		<b>/Feb 2024</b>: Our paper "Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT" has been accepted for presentation at <b>LREC-CoLing 2024</b>!.
+		<a href="[https://lrec-coling-2024.org/]" target="_blank">[paper]</a>
 	</li>
 </ul>
 </div>
