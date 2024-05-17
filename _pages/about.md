@@ -10,8 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am an AI MS.c. student at the <b>[University of Tehran](https://www.ut.ac.ir/en)</b> advised by [Prof. Yadollah Yaghoobzadeh](https://vnpeng.net/). 
-
+Hi! I am an AI MS.c. student at the <b>[University of Tehran](https://www.ut.ac.ir/en)</b> advised by [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/). My academic journey has been centered around exploring the vast landscape of NLP, with a particular focus on leveraging Large Language Models (LLMs) to address various challenges and opportunities in this field.
 
 <!-- Previously, I recieved my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh]
 <!-- (https://yyaghoobzadeh.github.io/){:target="_blank"} on natural language processing (NLP).
