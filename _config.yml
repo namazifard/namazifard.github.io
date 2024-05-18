@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "Danial Namazifard"
 description              : &description "personal description"
 # url                      : https://namazifard.github.io
+url                      : ""
 baseurl                  : "" # the subpath of your site, e.g.
 repository               : "namazifard/namazifard.github.io"
 
