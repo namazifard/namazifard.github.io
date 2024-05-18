@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 [1] Amirhossein Abaskohi, Sara Baruni, Mostafa Masoudi, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, __Danial Namazifard__, Pouya Sadeghi, and Yadollah Yaghoobzadeh                   
 **Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT**   
 LREC-COLING 2024
