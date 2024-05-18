@@ -12,5 +12,5 @@ LREC-COLING 2024
 [\[Paper\]](https://arxiv.org/abs/2404.02403) / [\[Code\]](https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian) 
 
 [2] Paria Khoshtab, Ali Akhgary, Samin Mahdizadeh Sani, Mostafa Masoudi, __Danial Namazifard__, Yadollah Yaghoobzadeh
-**Decoding Figurative Language: A Multilingual Exploration of Idioms and Similes**
+**Decoding Figurative Language: A Multilingual Exploration of Idioms and Similes**                                                                                     
 Submitted to The 2nd Workshop on Cross-Cultural Considerations in NLP @ ACL 2024
