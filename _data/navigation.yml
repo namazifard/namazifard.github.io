@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/CV - Namazifard.pdf
+  # - title: "CV"
+  #   url: /files/CV - Namazifard.pdf
     
   # - title: "Guide"
   #   url: /markdown/
