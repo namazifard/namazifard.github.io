@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] Paria Khoshtab, __Danial Namazifard__, Mostafa Masoudi, Ali Akhgary, Samin Mahdizadeh Sani, and Yadollah Yaghoobzadeh                   
+[1] Paria Khoshtab*, __Danial Namazifard__*, Mostafa Masoudi, Ali Akhgary, Samin Mahdizadeh Sani, and Yadollah Yaghoobzadeh                   
 **Comparative Study of Multilingual Idioms and Similes in Large Language Models**   
 COLING 2025
 <br/>
