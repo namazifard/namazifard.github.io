@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] Paria Khoshtab*, __Danial Namazifard__*, Mostafa Masoudi, Ali Akhgary, Samin Mahdizadeh Sani, and Yadollah Yaghoobzadeh                   
+[1] Paria Khoshtab\*, __Danial Namazifard\*__, Mostafa Masoudi, Ali Akhgary, Samin Mahdizadeh Sani, and Yadollah Yaghoobzadeh                   
 **Comparative Study of Multilingual Idioms and Similes in Large Language Models**   
 COLING 2025
 <br/>
@@ -16,3 +16,7 @@ COLING 2025
 LREC-COLING 2024
 <br/>
 [\[Paper\]](https://aclanthology.org/2024.lrec-main.197/) / [\[Code\]](https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian)
+
+---
+
+\* Co-first authors.
