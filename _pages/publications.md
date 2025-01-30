@@ -9,7 +9,7 @@ author_profile: true
 **Comparative Study of Multilingual Idioms and Similes in Large Language Models**   
 COLING 2025
 <br/>
-[\[Paper\]](https://arxiv.org/abs/2410.16461) / [\[Code\]](https://github.com/namazifard/multilingual-idioms-similes)
+[\[Paper\]](https://aclanthology.org/2025.coling-main.580/) / [\[Code\]](https://github.com/namazifard/multilingual-idioms-similes)
 
 [2] Amirhossein Abaskohi, Sara Baruni, Mostafa Masoudi, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, __Danial Namazifard__, Pouya Sadeghi, and Yadollah Yaghoobzadeh                   
 **Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT**   
