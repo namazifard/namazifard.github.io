@@ -6,12 +6,10 @@ author_profile: true
 ---
 
 [1] __Danial Namazifard__, Lukas Galke                   
-**Isolating Culture Neurons in Multilingual Large Language Models**
-                                                                                                  
+**Isolating Culture Neurons in Multilingual Large Language Models**                                                                                      
 Submitted to ACL Rolling Review July Cycle
 <br/>
 [\[Paper\]](https://arxiv.org/abs/2508.02241) / [\[Code\]](https://github.com/namazifard/Culture_Neurons)
-
 
 [2] Paria Khoshtab\*, __Danial Namazifard\*__, Mostafa Masoudi, Ali Akhgary, Samin Mahdizadeh Sani, and Yadollah Yaghoobzadeh                
 **Comparative Study of Multilingual Idioms and Similes in Large Language Models**
