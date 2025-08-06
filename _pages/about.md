@@ -38,7 +38,7 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
-		<b>Aug 2025</b>: Our paper "Isolating Culture Neurons in Multilingual Large Language Models" is now available on arXiv!</b>!
+		<b>Aug 2025</b>: Our paper "Isolating Culture Neurons in Multilingual Large Language Models" is now available on arXiv!
 		<a href="https://arxiv.org/abs/2508.02241" target="_blank">[paper]</a>
 		<a href="https://github.com/namazifard/Culture_Neurons" target="_blank">[code]</a>
 	</li>
