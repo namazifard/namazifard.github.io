@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am an AI MS.c. student at the <b>[University of Tehran](https://www.ut.ac.ir/en)</b> under the advisorship of [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/). My academic journey has been centered around exploring the vast landscape of NLP, with a particular focus on leveraging <b>Large Language Models</b> (LLMs) to address various challenges and opportunities in this field.
+Hi! I am an AI MS.c. student at the <b>[University of Tehran](https://www.ut.ac.ir/en)</b> under the advisorship of [Professor Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/). My academic journey has been centered around exploring the vast landscape of NLP, with a particular focus on leveraging <b>Large Language Models</b> (LLMs) to address various challenges and opportunities in this field.
 
 <!-- Previously, I recieved my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh]
 <!-- (https://yyaghoobzadeh.github.io/){:target="_blank"} on natural language processing (NLP).
@@ -38,7 +38,12 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
-		<b>Dec 2025</b>: Our paper "Comparative Study of Multilingual Idioms and Similes in Large Language Models" has been accepted for presentation at <b>COLING 2025</b>!
+		<b>Aug 2025</b>: Our paper "Isolating Culture Neurons in Multilingual Large Language Models" is now available on arXiv!</b>!
+		<a href="https://arxiv.org/abs/2508.02241" target="_blank">[paper]</a>
+		<a href="https://github.com/namazifard/Culture_Neurons" target="_blank">[code]</a>
+	</li>
+	<li>
+		<b>Dec 2024</b>: Our paper "Comparative Study of Multilingual Idioms and Similes in Large Language Models" has been accepted for presentation at <b>COLING 2025</b>!
 		<a href="https://aclanthology.org/2025.coling-main.580/" target="_blank">[paper]</a>
 		<a href="https://github.com/namazifard/multilingual-idioms-similes" target="_blank">[code]</a>
 	</li>
