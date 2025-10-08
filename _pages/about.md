@@ -25,11 +25,10 @@ Research Interests
 
 My research interests span across several areas within NLP, including:
 
-- Multilingual Foundational Models
+- Multilingual NLP
+- Multimodal Reasoning
+- Interpretability & Explainibility
 - Multi-Agent Systems
-- Knowledge-Enhanced NLP
-- Cross-Lingual Transfer Learning
-- Responsible AI
 
 News
 ======
