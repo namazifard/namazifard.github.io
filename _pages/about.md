@@ -38,17 +38,17 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
-		<b>Aug 2025</b>: Our paper "A Computational Approach to Language Contact – A Case Study of Persian" is now available on arXiv!
+		<b>Jan 2026</b>: Our paper "A Computational Approach to Language Contact – A Case Study of Persian" is now available on arXiv!
 		<a href="https://arxiv.org/abs/2508.02241" target="_blank">[paper]</a>
 		<a href="https://github.com/namazifard/Culture_Neurons" target="_blank">[code]</a>
 	</li>
 	<li>
-		<b>Aug 2025</b>: Our paper "APARSIN: A Multi-Variety Sentiment and Translation Benchmark for Iranic Languages" is now available on arXiv!
+		<b>Jan 2026</b>: Our paper "APARSIN: A Multi-Variety Sentiment and Translation Benchmark for Iranic Languages" is now available on arXiv!
 		<a href="https://arxiv.org/abs/2508.02241" target="_blank">[paper]</a>
 		<a href="https://github.com/namazifard/Culture_Neurons" target="_blank">[code]</a>
 	</li>
 	<li>
-		<b>Aug 2025</b>: Our paper "Isolating Culture Neurons in Multilingual Large Language Models" has been accepted for presentation at <b>IJCNLP-AACL 2025</b>!
+		<b>Oct 2025</b>: Our paper "Isolating Culture Neurons in Multilingual Large Language Models" has been accepted for presentation at <b>IJCNLP-AACL 2025</b>!
 		<a href="https://aclanthology.org/2025.findings-ijcnlp.45/" target="_blank">[paper]</a>
 		<a href="https://github.com/namazifard/Culture_Neurons" target="_blank">[code]</a>
 	</li>
