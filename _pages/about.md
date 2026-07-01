@@ -18,9 +18,6 @@ Before joining SDU, I completed my MSc in Artificial Intelligence at the <b>[Uni
 
 Broadly, I enjoy research that tries to look “under the hood” of modern AI systems: not only asking what models can do, but also how and why they do it.
 
-Feel free to email me if you have questions about my work, research collaborations, or related academic topics.
-
-
 <!-- Previously, I recieved my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh]
 <!-- (https://yyaghoobzadeh.github.io/){:target="_blank"} on natural language processing (NLP).
 
