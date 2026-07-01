@@ -12,6 +12,17 @@ About me
 ======
 Hi! I am an AI MS.c. student at the <b>[University of Tehran](https://www.ut.ac.ir/en)</b> under the advisorship of [Professor Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/). My academic journey has been centered around exploring the vast landscape of NLP, with a particular focus on leveraging <b>Large Language Models</b> (LLMs) to address various challenges and opportunities in this field.
 
+Hi! I am a PhD Candidate at the Department of Mathematics and Computer Science (IMADA), University of Southern Denmark (SDU) advised by [Prof. Peter Schneider-Kamp](https://portal.findresearcher.sdu.dk/da/persons/petersk/) and [Professor Lukas Galke Poech](https://portal.findresearcher.sdu.dk/da/persons/lukas-paul-achatius-galke-poech/).
+
+My research focuses on interpretability, NLP, and AI safety. I am particularly interested in understanding how large language models represent knowledge internally and how different concepts and behaviors emerge inside these models.
+
+Before joining SDU, I completed my MSc in Artificial Intelligence at the University of Tehran, under the supervision of [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/).
+
+Broadly, I enjoy research that tries to look “under the hood” of modern AI systems: not only asking what models can do, but also how and why they do it.
+
+Feel free to email me if you have questions about my work, research collaborations, or related academic topics.
+
+
 <!-- Previously, I recieved my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh]
 <!-- (https://yyaghoobzadeh.github.io/){:target="_blank"} on natural language processing (NLP).
 
