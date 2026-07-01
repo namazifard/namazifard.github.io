@@ -27,7 +27,7 @@ Feel free to email me if you have questions about my work, research collaboratio
 <!-- and [Prof. Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}.
 <!-- Hi! I am a master's student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning. -->
 
-Feel free to [email](mailto:namazifard.ut.ac.ir) me if you have any questions about my work or research/academia topics!
+Feel free to [email](mailto:danial@imada.sdu.dk) me if you have questions about my work, research collaborations, or related academic topics.
 
 Research Interests
 ======
