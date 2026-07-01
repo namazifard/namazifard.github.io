@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am a PhD Candidate at the Department of Mathematics and Computer Science (IMADA), University of Southern Denmark (SDU) advised by [Prof. Peter Schneider-Kamp](https://portal.findresearcher.sdu.dk/da/persons/petersk/) and [Professor Lukas Galke Poech](https://portal.findresearcher.sdu.dk/da/persons/lukas-paul-achatius-galke-poech/).
+Hi! I am a PhD Candidate at the [Department of Mathematics and Computer Science (IMADA)](https://www.sdu.dk/en/om-sdu/institutter-centre/imada_matematik_og_datalogi), [University of Southern Denmark (SDU)](https://www.sdu.dk/en/) advised by [Prof. Peter Schneider-Kamp](https://portal.findresearcher.sdu.dk/da/persons/petersk/) and [Professor Lukas Galke Poech](https://portal.findresearcher.sdu.dk/da/persons/lukas-paul-achatius-galke-poech/).
 
 My research focuses on interpretability, NLP, and AI safety. I am particularly interested in understanding how large language models represent knowledge internally and how different concepts and behaviors emerge inside these models.
 
