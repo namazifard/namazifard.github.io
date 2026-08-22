@@ -19,3 +19,30 @@ research_gate_profile: Danial-Namazifard
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
+
+# Academic / contact
+email: danial@imada.sdu.dk
+orcid_id: 0009-0000-4899-2043
+scholar_userid: NshkQfgAAAAJ
+
+# Add these only if you have the corresponding profile:
+# research_gate_profile:
+# semanticscholar_id:
+# dblp_url:
+# arxiv_id:
+
+# Development / professional
+github_username: namazifard
+linkedin_username: namazifard
+x_username: DanialNamazi_En
+
+# Add these only if applicable:
+# gitlab_username:
+# stackoverflow_id:
+# kaggle_id:
+
+# Personal social media, if you want them public:
+# instagram_id:
+# facebook_id:
+# spotify_id:
+# bluesky_url:
