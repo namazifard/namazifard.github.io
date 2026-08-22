@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://namazifard.github.io/namazifard-homepage/sitemap.xml
+Sitemap: https://namazifard.github.io/sitemap.xml
