@@ -1,9 +1,8 @@
 ---
-layout: news
+layout: page
 title: news
 permalink: /news/
 nav: false
-news: true
 ---
 
----
+{% include news.liquid %}
