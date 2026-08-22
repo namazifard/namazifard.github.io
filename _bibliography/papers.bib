@@ -1,35 +1,136 @@
 @inproceedings{abaskohi2024benchmarking,
-  title={Benchmarking large language models for Persian: A preliminary study focusing on ChatGPT},
-  author={Abaskohi, Amirhossein and Baruni, Sara and Masoudi, Mostafa and Abbasi, Nesa and Babalou, Mohammad Hadi and Edalat, Ali and Kamahi, Sepehr and Sani, Samin Mahdizadeh and Naghavian, Nikoo and Namazifard, Danial and others},
-  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
-  pages={2189--2203},
-  year={2024}
+  abbr      = {LREC-COLING 2024},
+  title     = {Benchmarking Large Language Models for {Persian}: A Preliminary Study Focusing on {ChatGPT}},
+  author    = {Abaskohi, Amirhossein and
+               Baruni, Sara and
+               Masoudi, Mostafa and
+               Abbasi, Nesa and
+               Babalou, Mohammad Hadi and
+               Edalat, Ali and
+               Kamahi, Sepehr and
+               Mahdizadeh Sani, Samin and
+               Naghavian, Nikoo and
+               Namazifard, Danial and
+               Sadeghi, Pouya and
+               Yaghoobzadeh, Yadollah},
+  booktitle = {Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation ({LREC-COLING} 2024)},
+  month     = {May},
+  year      = {2024},
+  address   = {Torino, Italy},
+  publisher = {ELRA and ICCL},
+  pages     = {2189--2203},
+
+  acl       = {https://aclanthology.org/2024.lrec-main.197/},
+  arxiv     = {2404.02403},
+  code      = {https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian},
+
+  abstract  = {This paper explores the efficacy of large language models (LLMs) for Persian. While ChatGPT and consequent LLMs have shown remarkable performance in English, their efficiency for more low-resource languages remains an open question. We present the first comprehensive benchmarking study of LLMs across diverse Persian language tasks. Our primary focus is on GPT-3.5-turbo, but we also include GPT-4 and OpenChat-3.5 to provide a more holistic evaluation. Our assessment encompasses a diverse set of tasks categorized into classic, reasoning, and knowledge-based domains. To enable a thorough comparison, we evaluate LLMs against existing task-specific fine-tuned models. Given the limited availability of Persian datasets for reasoning tasks, we introduce two new benchmarks: one based on elementary school math questions and another derived from the entrance exams for 7th and 10th grades. Our findings reveal that while LLMs, especially GPT-4, excel in tasks requiring reasoning abilities and a broad understanding of general knowledge, they often lag behind smaller pretrained models fine-tuned specifically for particular tasks. Additionally, we observe improved performance when test sets are translated to English before inputting them into GPT-3.5. These results highlight the significant potential for enhancing LLM performance in the Persian language.}
 }
+
+
 @inproceedings{khoshtab2025comparative,
-  title={Comparative study of multilingual idioms and similes in large language models},
-  author={Khoshtab, Paria and Namazifard, Danial and Masoudi, Mostafa and Akhgary, Ali and Sani, Samin Mahdizadeh and Yaghoobzadeh, Yadollah},
-  booktitle={Proceedings of the 31st International Conference on Computational Linguistics},
-  pages={8680--8698},
-  year={2025}
+  abbr      = {COLING 2025},
+  title     = {Comparative Study of Multilingual Idioms and Similes in Large Language Models},
+  author    = {Khoshtab, Paria and
+               Namazifard, Danial and
+               Masoudi, Mostafa and
+               Akhgary, Ali and
+               Mahdizadeh Sani, Samin and
+               Yaghoobzadeh, Yadollah},
+  booktitle = {Proceedings of the 31st International Conference on Computational Linguistics},
+  month     = {January},
+  year      = {2025},
+  address   = {Abu Dhabi, UAE},
+  publisher = {Association for Computational Linguistics},
+  pages     = {8680--8698},
+
+  acl       = {https://aclanthology.org/2025.coling-main.580/},
+  arxiv     = {2410.16461},
+  code      = {https://github.com/namazifard/Multilingual-Idioms-Similes},
+
+  abstract  = {This study addresses the gap in the literature concerning the comparative performance of LLMs in interpreting different types of figurative language across multiple languages. By evaluating LLMs using two multilingual datasets on simile and idiom interpretation, we explore the effectiveness of various prompt engineering strategies, including chain-of-thought, few-shot, and English translation prompts. We extend the language of these datasets to Persian as well by building two new evaluation sets. Our comprehensive assessment involves both closed-source models and open-source models, highlighting significant differences in performance across languages and figurative types. Our findings reveal that while prompt engineering methods are generally effective, their success varies by figurative type, language, and model. We also observe that open-source models struggle particularly with low-resource languages in similes. Additionally, idiom interpretation is nearing saturation for many languages, necessitating more challenging evaluations.}
 }
+
+
 @inproceedings{namazifard2025isolating,
-  title={Isolating culture neurons in multilingual large language models},
-  author={Namazifard, Danial and Poech, Lukas Galke},
-  booktitle={Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
-  pages={768--785},
-  year={2025}
+  abbr      = {IJCNLP-AACL 2025},
+  title     = {Isolating Culture Neurons in Multilingual Large Language Models},
+  author    = {Namazifard, Danial and
+               Galke Poech, Lukas},
+  booktitle = {Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
+  month     = {December},
+  year      = {2025},
+  address   = {Mumbai, India},
+  publisher = {The Asian Federation of Natural Language Processing and The Association for Computational Linguistics},
+  pages     = {768--785},
+
+  acl       = {https://aclanthology.org/2025.findings-ijcnlp.45/},
+  doi       = {10.18653/v1/2025.findings-ijcnlp.45},
+  arxiv     = {2508.02241},
+  code      = {https://github.com/namazifard/Culture_Neurons},
+
+  abstract  = {Language and culture are deeply intertwined, yet it has been unclear how and where multilingual large language models encode culture. Here, we build on an established methodology for identifying language-specific neurons to localize and isolate culture-specific neurons, carefully disentangling their overlap and interaction with language-specific neurons. To facilitate our experiments, we introduce MUREL, a curated dataset of 85.2 million tokens spanning six different cultures. Our localization and intervention experiments show that LLMs encode different cultures in distinct neuron populations, predominantly in upper layers, and that these culture neurons can be modulated largely independently of language-specific neurons or those specific to other cultures. These findings suggest that cultural knowledge and propensities in multilingual language models can be selectively isolated and edited, with implications for fairness, inclusivity, and alignment.}
 }
+
+
 @inproceedings{jafari2026aparsin,
-  title={APARSIN: A multi-variety sentiment and translation benchmark for Iranic languages},
-  author={Jafari, Sadegh and Azin, Tara and Roodi, Farhad and Tafti, Zahra Dehghani and Ghadrdan, Mehrdad and Esfahani, Elham Vatankhahan and Naebzadeh, Aylin and Shahhosseini, Mohammadhadi and Khan, Ghafoor and Forghani, Kazem and others},
-  booktitle={The Proceedings of the First Workshop on NLP and LLMs for the Iranian Language Family},
-  pages={83--97},
-  year={2026}
+  abbr      = {SilkRoadNLP 2026},
+  title     = {{APARSIN}: A Multi-Variety Sentiment and Translation Benchmark for Iranic Languages},
+  author    = {Jafari, Sadegh and
+               Azin, Tara and
+               Roodi, Farhad and
+               Tafti, Zahra Dehghani and
+               Ghadrdan, Mehrdad and
+               Esfahani, Elham Vatankhahan and
+               Naebzadeh, Aylin and
+               Shahhosseini, Mohammadhadi and
+               Khan, Ghafoor and
+               Forghani, Kazem and
+               Namazi, Danial and
+               Hashemi, Seyed Mohammad Hossein and
+               Farsi, Farhan and
+               Osoolian, Mohammad and
+               Mohammadi, Maede and
+               Zare, Mohammad Erfan and
+               Khan, Muhammad Hasnain and
+               Hussain, Muhammad and
+               Zaki, Nooreen and
+               Mohammadi, Joma and
+               Bali, Shayan and
+               Ranjbar, Mohammad Javad and
+               Lefever, Els and
+               Hoste, Veronique},
+  booktitle = {The Proceedings of the First Workshop on {NLP} and {LLM}s for the Iranian Language Family},
+  month     = {March},
+  year      = {2026},
+  address   = {Rabat, Morocco},
+  publisher = {Association for Computational Linguistics},
+  pages     = {83--97},
+
+  acl       = {https://aclanthology.org/2026.silkroadnlp-1.9/},
+  doi       = {10.18653/v1/2026.silkroadnlp-1.9},
+  code      = {https://github.com/SilkRoadAparsin},
+
+  abstract  = {The Iranic language family includes many underrepresented languages and dialects that remain largely unexplored in modern NLP research. We introduce APARSIN, a multi-variety benchmark covering 14 Iranic languages, dialects, and accents, designed for sentiment analysis and machine translation. The dataset includes both high- and low-resource varieties, several of which are endangered, capturing linguistic variation across them. We evaluate a set of instruction-tuned Large Language Models (LLMs) on these tasks and analyze their performance across the varieties. Our results highlight substantial performance gaps between standard Persian and other Iranic languages and dialects, demonstrating the need for more inclusive multilingual and dialectally diverse NLP benchmarks.}
 }
+
+
 @inproceedings{basirat2026computational,
-  title={A Computational Approach to Language Contact--A Case Study of Persian},
-  author={Basirat, Ali and Namazifard, Danial and Hemmati, Navid Baradaran},
-  booktitle={The Proceedings of the First Workshop on NLP and LLMs for the Iranian Language Family},
-  pages={38--49},
-  year={2026}
+  abbr      = {SilkRoadNLP 2026},
+  title     = {A Computational Approach to Language Contact {--} A Case Study of {Persian}},
+  author    = {Basirat, Ali and
+               Namazifard, Danial and
+               Hemmati, Navid Baradaran},
+  booktitle = {The Proceedings of the First Workshop on {NLP} and {LLM}s for the Iranian Language Family},
+  month     = {March},
+  year      = {2026},
+  address   = {Rabat, Morocco},
+  publisher = {Association for Computational Linguistics},
+  pages     = {38--49},
+
+  acl       = {https://aclanthology.org/2026.silkroadnlp-1.5/},
+  doi       = {10.18653/v1/2026.silkroadnlp-1.5},
+  arxiv     = {2601.20592},
+
+  abstract  = {We investigate structural traces of language contact in the intermediate representations of a monolingual language model. Focusing on Persian as a historically contact-rich language, we probe the representations of a Persian-trained model when exposed to languages with varying degrees and types of contact with Persian. Our methodology quantifies the amount of linguistic information encoded in intermediate representations and assesses how this information is distributed across model components for different morphosyntactic features. The results show that universal syntactic information is largely insensitive to historical contact, whereas morphological features such as CASE and GENDER are strongly shaped by language-specific structure, suggesting that contact effects in monolingual language models are selective and structurally constrained.}
 }
