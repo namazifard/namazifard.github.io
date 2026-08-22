@@ -27,6 +27,8 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year <b>Ph.D. student in Computer Science</b> at the Department of Mathematics and Computer Science, [University of Southern Denmark (SDU)](https://sdu.dk/), advised by Prof. [<b>Peter Schneider-Kamp</b>](https://www.peterschneider-kamp.dk/) and Prof. [<b>Lukas Galke Poech</b>](https://lgalke.github.io/). My research focuses on <b>interpretability</b>, <b>natural language processing</b>, and <b>AI safety</b>.
+I am a first-year <b>Ph.D. student in Computer Science</b> at the Department of Mathematics and Computer Science, [University of Southern Denmark (SDU)](https://sdu.dk/), advised by Prof. [<b>Peter Schneider-Kamp</b>](https://www.peterschneider-kamp.dk/) and Prof. [<b>Lukas Galke Poech</b>](https://lgalke.github.io/).
+
+My research focuses on <b>interpretability</b>, <b>natural language processing</b>, and <b>AI safety</b>, with a particular interest in understanding how large language models represent knowledge internally and how reasoning, concepts, and behaviors emerge within these models.
 
 Before my Ph.D., I earned an M.Sc. in Computer Engineering, specializing in Artificial Intelligence, from the University of Tehran.
