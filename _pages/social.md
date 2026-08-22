@@ -1,10 +1,9 @@
 ---
-layout: social
+layout: page
 title: social
 permalink: /social/
 nav: true
-nav_order: 6
-social: true
+nav_order: 4
 ---
 
 Outside of research, I enjoy running, walking, meditating, and reading books.
