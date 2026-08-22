@@ -19,7 +19,7 @@ icon: 🌵
 # apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://namazifard.github.io # the base hostname & protocol for your site
-# baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -112,47 +112,6 @@ max_width: 930px
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
-
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-
-github_username: namazifard # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: DanialNamazi_En # your Twitter handle
-hf_username: namazifard # your Huggingface handle
-linkedin_username: namazifard # your LinkedIn user name
-scholar_userid: NshkQfgAAAAJ # your Google Scholar ID
-orcid_id: 0009-0000-4899-2043 # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: Amir_Hossein_Kargaran # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: 16478538 # your stackoverflow id
-myanimelist_id: 
-kaggle_id:  #your kaggle id
-lastfm_id: 
-spotify_id: 21wduv4jr5477ajojgxej4cha?si=L3iavpzJQleF_ih-tnIxmA # your spotify id
-letterboxd_id:  # your letterboxd id
-pinterest_id:  # your pinterest id
-unsplash_id:  # your unsplash id
-instagram_id:  # your instagram id
-facebook_id:  # your facebook id
-arxiv_url:  # your arxiv search url
-discord_id: # your discord id (18-digit unique numerical identifier)
-semanticscholar_id: # your semanticscholar id
-
-#contact_note:
-
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification: JaSyZ6iL1QHnI52LuQlz1BdkG_kEuhKKNcWq9xrsmhU # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -291,6 +250,7 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - _pages_all/
 keep_files:
   - CNAME
   - .nojekyll
@@ -512,7 +472,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_verification: false # enables google site verification
+enable_google_verification: true # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_cookie_consent: false # enables GDPR-compliant cookie consent dialog (https://github.com/orestbida/cookieconsent)
 enable_masonry: true # enables automatic project cards arrangement
